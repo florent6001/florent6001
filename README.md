@@ -2,7 +2,7 @@
 <p><em>Développeur web freelance.</br>
 </em></p>
 
-[![GitHub florent6001](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/florent6001)
+[![GitHub florent6001](https://img.shields.io/github/followers/florent6001?label=follow&style=social)](https://github.com/florent6001)
 
 
 ### A propos de moi...  
