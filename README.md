@@ -10,7 +10,7 @@
 ```javascript
 const Florent = {
   code: [Javascript, HTML, CSS, PHP],
-  tools: [React, expressJS, VueJS, Laravel, CodeIgniter ],
+  tools: [expressJS, VueJS, NuxtJS, Laravel, CodeIgniter],
   editor: [Visual Studio Code, Neovim]
 }
 ```
