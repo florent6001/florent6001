@@ -10,7 +10,7 @@
 ```javascript
 const Florent = {
   code: [Javascript, HTML, CSS, PHP],
-  tools: [Next, React, Laravel],
+  tools: [Symfony, React, Laravel],
   database: [Mysql, MongoDB],
   editor: [Visual Studio Code]
 }
