@@ -10,9 +10,9 @@
 ```javascript
 const Florent = {
   code: [Javascript, HTML, CSS, PHP],
-  tools: [Symfony, React, Laravel],
-  database: [Mysql, MongoDB],
-  editor: [Visual Studio Code]
+  tools: [Laravel, React, Next],
+  database: [Mysql, MongoDB, Sqlite],
+  editor: [Lunarvim]
 }
 ```
 ---
