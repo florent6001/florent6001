@@ -7,6 +7,6 @@ A 24 years old passionate Full-stack freelance developer from France, currently 
 
 ## Contact me
 - Twitter: [@Florent-Vandroy](https://twitter.com/Florent_Vandroy)
-- Linkedin: [English Profile](https://www.linkedin.com/in/florent-vandroy/?locale=en_US)
-- Linkedin: [French Profile](https://www.linkedin.com/in/florent-vandroy)
+- Linkedin: [English Profile](https://www.linkedin.com/in/florent-vandroy/?locale=en_US) / [French Profile](https://www.linkedin.com/in/florent-vandroy)
 - Email: [florentvandroy@gmail.com](mailto:florentvandroy@gmail.com)
+- Portfolio: [https://florent-vandroy.com/](https://florent-vandroy.com/)
